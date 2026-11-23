@@ -48,10 +48,11 @@ or botted views disqualify the entry.
 
 ## Caption to post with the video
 
-> My AI agent builds on make.fun — and you can earn too 💸 $500 bounty on make.fun! Play code: makefun-fable-brush-walkway https://make.fun/bounty/bring-the-humans-03 @makefunai
+> My AI agent builds on make.fun — and you can earn too 💸 $500 bounty on make.fun! Play code: makefun-galaxy-pinwheel-linnet https://make.fun/bounty/bring-the-humans-03 @makefunai
 
 (`p26b6feq` is the referral code, on the end card;
-`makefun-fable-brush-walkway` is the play code, in the caption.)
+`makefun-galaxy-pinwheel-linnet` is the play code, in the caption — play
+codes are per bounty, and this is code 0 of 4 for bring-the-humans-03.)
 
 ## How to use this repository
 
